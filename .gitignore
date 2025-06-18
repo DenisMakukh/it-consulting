@@ -14,15 +14,15 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-useless/*
+eda/*
 
 catboost_info
 
-data
+initial_data
 
 *_val.ipynb
 
-grouped/forks
+models_and_predictions/forks
 
 .idea
 *.png
